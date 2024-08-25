@@ -1,5 +1,5 @@
 {
-    "name": "vpm-package.editor",
+    "name": "numeira.prefab-installer.editor",
     "references": [ ],
     "includePlatforms": [
         "Editor"

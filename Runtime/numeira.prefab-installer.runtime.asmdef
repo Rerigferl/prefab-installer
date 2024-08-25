@@ -1,5 +1,5 @@
 {
-    "name": "vpm-package.runtime",
+    "name": "numeira.prefab-installer.runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
